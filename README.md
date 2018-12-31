@@ -16,3 +16,4 @@ File Name Convention:
    1. .....Filled.jpg is an intermediate output before the solution
    2. .....Answer.jpg is final solution
    3. Input mazes do not have any convention
+   4. solver.m are the solvers used
